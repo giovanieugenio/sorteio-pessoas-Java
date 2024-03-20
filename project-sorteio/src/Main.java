@@ -11,7 +11,7 @@ public class Main {
 
         System.out.println("Informe os alunos: ");
 
-        for (int i = 0; i < 10; i++){
+        for (int i = 0; i < 27; i++){
             String nome = scanner.nextLine();
             pessoas.add(nome);
         }
